@@ -1,3 +1,4 @@
+cudatoolkit
 torch>=1.7
 torchaudio
 git+https://github.com/huggingface/transformers
