@@ -1,5 +1,4 @@
-cudatoolkit
-torch>=1.7
+torch+cu116
 torchaudio
 git+https://github.com/huggingface/transformers
 git+https://github.com/huggingface/datasets
