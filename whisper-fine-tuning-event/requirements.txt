@@ -1,4 +1,4 @@
-torch>=1.7+cu111
+torch>=1.7
 torchaudio
 git+https://github.com/huggingface/transformers
 git+https://github.com/huggingface/datasets
